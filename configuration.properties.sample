@@ -1,0 +1,6 @@
+db.url=jdbc:postgresql://host:port/database
+db.user=user
+db.pass=pass
+jenkins.host=http://myhost:8080
+jenkins.username=username
+jenkins.accessToken=accestoken
